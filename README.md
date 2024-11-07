@@ -1,4 +1,4 @@
-# ✈️ Airline Referral Prediction Project
+# ✈️ Airline Referral Prediction End to End Project
 
 ![Project Overview](https://github.com/vishalhasrajani/End-to-End-Airline_Passenger_Referral_Prediction/blob/main/Project-Airline-image.png)
 
