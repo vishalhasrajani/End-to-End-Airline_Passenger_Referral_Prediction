@@ -1,6 +1,6 @@
 # ✈️ Airline Referral Prediction Project
 
-![Project Overview](https://github.com/vishalhasrajani/End-to-End-Airline_Passenger_Referral_Prediction/blob/main/project_Airline_image.png)
+![Project Overview](https://github.com/vishalhasrajani/End-to-End-Airline_Passenger_Referral_Prediction/blob/main/Project-Airline-image.png)
 
 ---
 
